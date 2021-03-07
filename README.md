@@ -1,4 +1,2 @@
 # demo
 demo
-
-Some content
